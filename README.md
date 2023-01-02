@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I think I am funny (sometimes)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <link> https://dhivyadharshni9.wixsite.com/dhivya-s-portfolio </link> </h3>
 <p align="left">
 </p>
 
