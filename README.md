@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhivya Dharshni S V</h1>
 
-- 🌱 I’m currently learning **Artificial Inteligence, Mobile Computing.**
-
-- 📫 How to reach me **20pw09@psgtech.ac.in**
+- 📫 How to reach me **dhivyadharshni9@gmail.com**
 
 - ⚡ Fun fact **I think I am funny (sometimes)**
 
